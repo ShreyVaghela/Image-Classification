@@ -6,7 +6,7 @@ Image Classification is the task of extracting features and classifying image in
 
 ### Implementation
 
-The project experiments with various techniques in image classification for classifying [UCMerced_LandUse dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html). It uses VGGNET pre-trained network in keras. The project implements 3 approaches such as building the model from scratch, using CNN as feature extractor and fine tuning the network by freezing initial few layers of CNN.
+The project experiments with various techniques in image classification for classifying [UCMerced_LandUse dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html). It uses pre-trained network VGGNET  in keras. The project implements 3 approaches such as building the model from scratch, using CNN as feature extractor and fine tuning the network by freezing initial few layers of CNN.
 
 ### References
 [Transfer learning & The art of using Pre-trained Models in Deep Learning](https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/)
